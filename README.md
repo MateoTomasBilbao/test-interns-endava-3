@@ -2,10 +2,9 @@
 test-interns-endava-3 based on docker and k8s
 
 ## Introduction
-<summary>Details</summary>
+<summary># Kubernetes Basics</summary>
 <details>
 
-# Kubernetes Basics
 
 <br/>
 
