@@ -1966,7 +1966,7 @@ These are the steps to deploy a service to GKE:
 ## Exercise
 
 - 🐳 dockerify the [app](./app)
-- ☸ write a deployment and deploy to minikube
+- ☸ write a deployment and deploy to minikube or eks
 - 🍪 provide inbound access to the app
 
 ## Considerations / discussion points:
